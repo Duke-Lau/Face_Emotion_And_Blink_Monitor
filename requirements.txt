@@ -1,0 +1,5 @@
+numpy>=1.23,<2.0
+opencv-python>=4.9.0
+mediapipe>=0.10.14
+py-feat>=0.6.2
+pytest>=8.0,<9.0
